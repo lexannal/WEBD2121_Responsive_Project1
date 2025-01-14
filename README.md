@@ -1,2 +1,2 @@
-# WEBD2121_Responsive_Project1
+# WEBD2121_Responsive_Project24
 Creating a responsive website practice
